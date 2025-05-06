@@ -1,4 +1,4 @@
-## Hi there 👋
+## Merhabalar ben Rojda Demir. Van yüzüncü yıl üniversitesi bilgisayar mühendisliği 2.sınıf öğrencisiyim.
 
 <!--
 **Rojdademir05/Rojdademir05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
